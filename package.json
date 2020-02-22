@@ -17,6 +17,6 @@
     "upsert": "node upsert.js"
   },
   "bin": {
-    "quest-log": "bin/js-yaml.js"
+    "quest-log": "bin/quest-log.js"
   }
 }
