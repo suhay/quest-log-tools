@@ -1,6 +1,6 @@
 {
   "name": "quest-log-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript tools for creating Quest Log content",
   "main": "index.js",
   "repository": "git@github.com:suhay/quest-log-tools.git",
